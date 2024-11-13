@@ -6,7 +6,7 @@ This repository contains automated API tests for the https://api.restful-api.dev
 ## Setup
 1. Clone repo & install dependencies:
 ```bash
-git clone 
+git clone https://github.com/gulhankarali/BRIT
 python -m venv venv
 source venv/bin/activate 
 pip install -r requirements.txt
